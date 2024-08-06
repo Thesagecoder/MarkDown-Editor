@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+pre {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    height: 400px;
+    overflow-y: auto;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.input-group-text {
+    width: 40px;
+    text-align: center;
+}
